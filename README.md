@@ -1,6 +1,8 @@
 # 💫 About Me:
 Hi there! I'm a passionate Full Stack Developer with a strong focus on building impactful digital solutions. I specialize in the MERN Stack, and have hands-on experience with both RESTful APIs and GraphQL integrations.<br><br>Currently, I'm actively working on a Virtual Try-On system, blending tech and creativity to reshape the online shopping experience. With a solid foundation in both frontend and backend, I thrive on solving complex problems and turning ideas into reality.<br><br>I'm also the founder of a creative development agency, where I lead teams, work with clients, and continuously sharpen my entrepreneurial mindset. Whether it’s scaling products or building new prototypes, I bring tech with a purpose.
 
+[![An image of @ryzrr's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ryzrr)](https://holopin.io/@ryzrr)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/the_n.ikhil) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nikhil-kumar-rajak-516909293/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/THEpHENOMENAL25) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/theshirtmosaic) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ryzrr.official@gmail.com) 
