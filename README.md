@@ -1,4 +1,6 @@
 # 💫 About Me:
+![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/user-attachments/assets/6b837973-197d-4f1d-b7cb-d2b50b634441)
+
 Hi there! I'm a passionate Full Stack Developer with a strong focus on building impactful digital solutions. I specialize in the MERN Stack, and have hands-on experience with both RESTful APIs and GraphQL integrations.<br><br>Currently, I'm actively working on a Virtual Try-On system, blending tech and creativity to reshape the online shopping experience. With a solid foundation in both frontend and backend, I thrive on solving complex problems and turning ideas into reality.<br><br>I'm also the founder of a creative development agency, where I lead teams, work with clients, and continuously sharpen my entrepreneurial mindset. Whether it’s scaling products or building new prototypes, I bring tech with a purpose.
 
 [![An image of @ryzrr's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ryzrr)](https://holopin.io/@ryzrr)
@@ -14,8 +16,6 @@ Hi there! I'm a passionate Full Stack Developer with a strong focus on building 
 ![](https://nirzak-streak-stats.vercel.app/?user=ryzrr&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ryzrr&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ryzrr&icon=0&color=13)](https://visitcount.itsvg.in)
