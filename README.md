@@ -19,7 +19,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ryzrr.official@gmail.com)
 
 ## 💻 Tech Stack
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,c,nextjs,react,vue,redux,tailwind,html,css,nodejs,express,graphql,mongodb,postgres,vite,vercel,nginx,figma&perline=10" alt="Tech Stack" />
 </div>
 
