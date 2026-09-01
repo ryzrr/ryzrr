@@ -20,7 +20,7 @@
 
 ## 💻 Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,c,nextjs,react,vue,redux,tailwind,html,css,nodejs,express,graphql,mongodb,postgres,vite,vercel,nginx,figma&perline=10" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,c,nextjs,react,vue,redux,tailwind,html,css,nodejs,express,graphql,redis,mongodb,postgres,vite,vercel,nginx,figma&perline=10" alt="Tech Stack" />
 </div>
 
 ## 📊 GitHub Stats:
